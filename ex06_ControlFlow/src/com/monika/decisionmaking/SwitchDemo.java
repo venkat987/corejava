@@ -38,5 +38,14 @@ public class SwitchDemo {
 		switch(m) { 	// float is not supported for switch 
 		
 		}*/
+		
 	}
-}
+	
+		
+		
+	
+	
+	
+}	
+
+	
